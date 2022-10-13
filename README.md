@@ -39,6 +39,4 @@
 - [x] Assignment 1 <br>
 - [x] Assignment 2  <br>
 
-## Technical Architecture : 
-
-![image](https://github.com/IBM-EPBL/IBM-Project-4463-1658732945/blob/main/ideation%20phase/Empathy%20Map%20Canvas.pdf)
+## 🗺️ EMPATHY MAP - [Click Here](https://github.com/IBM-EPBL/IBM-Project-4463-1658732945/blob/main/ideation%20phase/Empathy%20Map%20Canvas.pdf)
