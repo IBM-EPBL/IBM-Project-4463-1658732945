@@ -7,9 +7,9 @@
   
 ⚡ Team Members:
   
-         * Kamaleshvarma K (team leader)
-         * Kavin S
-         * LalithKishore L
-         * Kavin D
+         - Kamaleshvarma K (team leader)
+         - Kavin S
+         - LalithKishore L
+         - Kavin D
   
   
