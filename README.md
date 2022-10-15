@@ -23,4 +23,4 @@
 - [x] Assignment 2  <br>
 - [x] Assignment 3  <br>
 
- # **📟Empathy Map:** ![image]
+ ### <samp>&gt; 📟Empathy Map: <a href="(https://github.com/IBM-EPBL/IBM-Project-4463-1658732945/blob/main/ideation%20phase/Empathy%20Map%20Canvas.pdf)" target="_blank">Link</a> </samp>
