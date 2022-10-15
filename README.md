@@ -5,10 +5,10 @@
 <br>
   
   
-  ### ⚡ Team Members:
+⚡ Team Members:
   
+         * Kamaleshvarma K (team leader)
          * Kavin S
-         * Kamaleshvarma K
          * LalithKishore L
          * Kavin D
   
