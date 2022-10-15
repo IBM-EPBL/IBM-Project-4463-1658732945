@@ -4,6 +4,12 @@
   <h2 align="center"> Real-Time Communication System Powered by AI for Specially Abled <br></h2>
 </div>
 <br>
+
+<br> 
+ <h3>IBM-Project-3834-1658648678</h3>  
+ <h4>Team ID - PNT2022TMID00911</h4>      
+    
+<br>
   
 ### :woman_technologist: Team Members:
   
@@ -14,7 +20,7 @@
  
  
  
-<h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mechanical%20Arm.png" width="40px"> Tasks: </h2>
+<h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mechanical%20Arm.png""" width="40px"> Tasks: </h2>
   
 - [x] Brainstorm and Ideation <br>
 - [x] Problem Statement <br>
