@@ -7,9 +7,8 @@
 
   
 ### :woman_technologist: Team Members:
-  
-  -Kamaleshvarma K (team leader)
-  -Kavin S
+  - Kamaleshvarma K (team leader)
+  - Kavin S
   - LalithKishore L
   - Kavin D
   
