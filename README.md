@@ -7,7 +7,7 @@
   
 ### :woman_technologist: Team Members:
   
-  - Kamaleshvarma K (team leader)
+  - Kamaleshvarma K (Team Leader)
   - Kavin S
   - LalithKishore L
   - Kavin D
@@ -23,4 +23,4 @@
 - [x] Assignment 2  <br>
 - [x] Assignment 3  <br>
 
- # **📟Empathy Map:**
+ # **📟Empathy Map:** ![image]
