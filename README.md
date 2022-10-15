@@ -11,5 +11,16 @@
   - Kavin S
   - LalithKishore L
   - Kavin D
+ 
+ 
+ 
+<h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mechanical%20Arm.png" width="40px"> Tasks: </h2>
   
-  
+- [x] Brainstorm and Ideation <br>
+- [x] Problem Statement <br>
+- [x] Empathy Map <br>
+- [x] Assignment 1 <br>
+- [x] Assignment 2  <br>
+- [x] Assignment 3  <br>
+
+ # **📟Empathy Map:**
