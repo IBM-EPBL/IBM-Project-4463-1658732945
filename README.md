@@ -4,3 +4,12 @@
   <h2 align="center"> Real-Time Communication System Powered by AI for Specially Abled <br></h2>
 <br>
   
+  
+  ### ⚡ Team Members:
+  
+         * Kavin S
+         * Kamaleshvarma K
+         * LalithKishore L
+         * Kavin D
+  
+  
