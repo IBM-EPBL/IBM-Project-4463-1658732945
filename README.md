@@ -31,7 +31,7 @@
 
 𝐈𝐧𝐝𝐮𝐬𝐭𝐫𝐲 𝐌𝐞𝐧𝐭𝐨𝐫(𝐬) 𝐍𝐚𝐦𝐞  :  Divya
 
-𝐅𝐚𝐜𝐮𝐥𝐭𝐲 𝐌𝐞𝐧𝐭𝐨𝐫(𝐬) 𝐍𝐚𝐦𝐞   :  Vinmathi M S
+𝐅𝐚𝐜𝐮𝐥𝐭𝐲 𝐌𝐞𝐧𝐭𝐨𝐫(𝐬) 𝐍𝐚𝐦𝐞   : Mrs.Vinmathi M S
 
 #**📟Empathy Map:**
-![image](https://github.com/IBM-EPBL/IBM-Project-4463-1658732945/blob/main/ideation%20phase/Empathy%20Map%20Canvas.pdf)
+![image](link:"https://github.com/IBM-EPBL/IBM-Project-4463-1658732945/blob/main/ideation%20phase/Empathy%20Map%20Canvas.pdf")
