@@ -15,8 +15,8 @@
   
   - Kamaleshvarma K (Team Leader)
   - Kavin S
-  - LalithKishore L
   - Kavin D
+  - Lalith Kishore L
  
  
  
